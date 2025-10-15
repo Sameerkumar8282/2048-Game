@@ -18,3 +18,5 @@
 - Frontend: React + TailwindCSS
 - HTTP client: Axios
 - Build tools: Maven (backend), Vite (frontend)
+
+game Link - https://2048-game-sepia-six.vercel.app/
